@@ -50,20 +50,20 @@ export const nav = [
 // social
 export const social = [
   {
-    icon: <RiYoutubeFill />,
-    href: '',
+    icon: <RiYoutubeFill size={30} />,
+    href: "#",
   },
   {
-    icon: <RiInstagramFill />,
-    href: '',
+    icon: <RiInstagramFill size={30} />,
+    href: "#",
   },
   {
-    icon: <RiGithubFill />,
-    href: '',
+    icon: <RiGithubFill size={30} />,
+    href: "#",
   },
   {
-    icon: <RiLinkedinFill />,
-    ahref: '#',
+    icon: <RiLinkedinFill size={30} />,
+    href: "#",
   },
 ];
 
@@ -139,7 +139,7 @@ export const portfolio = {
 
 // contact
 export const contact = {
-  title: 'Contact.',
+  title: 'Contact',
   subtitle:
     'Truth is a deep kindness that teaches us to be content in our everyday life and share with the people the same happiness. the feeling of sunday is the same everywhere: heavy, melancholy, standing still..',
 };

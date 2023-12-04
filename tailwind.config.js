@@ -17,18 +17,12 @@ export default {
       md: "768px",
       lg: "1024px",
       xl: "1280px",
-      xl2:"1536px"
+      xl2: "1536px",
     },
     extend: {
       backgroundImage: {
         heroText: "url('/src/assets/img/accaro.svg')",
         blob: "url('/src/assets/img/blob.svg')",
-      },
-      content: {
-        arrow: "url('/src/assets/img/arrow.svg')",
-        rope: "url('/src/assets/img/rope.svg')",
-        pattern: "url('/src/assets/img/pattern.svg')",
-        ornament: "url('/src/assets/img/ornament.svg')",
       },
       colors: {
         primary: "#161515",
