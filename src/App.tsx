@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Button from "./components/Button";
 import Contact from "./components/Contact";
 import Contributors from "./components/Contributors";
 import Footer from "./components/Footer";
@@ -18,6 +19,7 @@ function App() {
       <Portfolio/>
       <Contact />
       <Footer/>
+      <Button/>
     </div>
   );
 }
